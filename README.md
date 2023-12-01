@@ -39,7 +39,9 @@ The john help command is good for confirming if your installation of John is wor
 
 $ john -h
 
-<img width="716" alt="Screen Shot 2023-12-01 at 12 59 58 PM" src="https://github.com/larnelle15/Password-Crack-a-thon/assets/139686202/acb121b2-2569-4834-a227-365ba60b8500">
+<img width="716" alt="Screen Shot 2023-12-01 at 12 59 58 PM" src="https://github.com/larnelle15/Password-Crack-a-thon/assets/139686202/9733ae08-4b40-4599-a161-da725092bf56">
+
+
 
 Here's a link to john's custom rules syntax, https://www.openwall.com/john/doc/RULES.shtml
 Now, you might be wondering how and where I'm going find the passwords to crack, I have been provided a password list by codepath.org with 1000 password leaks to use called cpleak.txt that I have included in this project. Now time to get down to business!    
