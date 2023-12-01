@@ -31,9 +31,18 @@ I will test using all of the three modes John offers me. You will be using one o
 2. Wordlist mode
 3. Incremental mode
 
+With kali linux, john is usually pre-installed but since I am using an Ubuntu VM the command to get John from the apt source is;
+
+$ apt install John
+
+The john help command is good for confirming if your installation of John is working and here is the command and its output;
+
+$ john -h
+
+<img width="716" alt="Screen Shot 2023-12-01 at 12 59 58 PM" src="https://github.com/larnelle15/Password-Crack-a-thon/assets/139686202/acb121b2-2569-4834-a227-365ba60b8500">
+
 Here's a link to john's custom rules syntax, https://www.openwall.com/john/doc/RULES.shtml
-
-
+Now, you might be wondering how and where I'm going find the passwords to crack, I have been provided a password list by codepath.org with 1000 password leaks to use called cpleak.txt that I have included in this project. Now time to get down to business!    
 
 
 
