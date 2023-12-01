@@ -31,6 +31,7 @@ I will test using all of the three modes John offers me. You will be using one o
 2. Wordlist mode
 3. Incremental mode
 
+Here's a link to john's custom rules syntax, https://www.openwall.com/john/doc/RULES.shtml
 
 
 
