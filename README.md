@@ -39,7 +39,7 @@ The john help command is good for confirming if your installation of John is wor
 
 $ john -h
 
-<img width="716" alt="Screen Shot 2023-12-01 at 12 59 58 PM" src="https://github.com/larnelle15/Password-Crack-a-thon/assets/139686202/9733ae08-4b40-4599-a161-da725092bf56">
+<img width="716" alt="Screen Shot 2023-12-01 at 12 59 58 PM" src="https://github.com/larnelle15/Password-Crack-a-thon/assets/139686202/1c68359a-9358-4920-901b-e04fb1796f8c">
 
 
 
