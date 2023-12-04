@@ -116,12 +116,12 @@ wordlist mode (using John's built-in password.lst wordlist)
 incremental mode (brute-force)
 This is the simplest mode to invoke. Simply run
 (john crackA.txt)
+
 I've already seen that John stores cracked passwords. To check what I've already cracked for a file, I can use the --show option when I run John, here's the command(john --show crackA.txt)
-
-John keeps all the cracked passwords in the John pot file(~~/snap/john-the-ripper/610/.john/john.pot)
-
 <img width="463" alt="Screen Shot 2023-12-03 at 9 25 15 PM" 
 src="https://github.com/larnelle15/Password-Crack-a-thon/assets/139686202/2cb8765f-5988-4a35-80b1-d0945d2cf74a">
+John keeps all the cracked passwords in the John pot file(~~/snap/john-the-ripper/610/.john/john.pot)
+
 And, there you go. Now that we have implemented the use of all the password cracking modes that John has to offer. It's time to start the main project.
 
 
