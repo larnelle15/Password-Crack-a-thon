@@ -46,5 +46,7 @@ codepath@lab000000:~/unit3$ less -N cp_leak.txt
      42 jaltman:$1$S4nuxwrG$nXk3ULrWfLXpqAZU7JaRH0
      43 yclark:$1$kvrUMM7N$a3qtPTuzPQbjV1csvW1fF0
      44 mheng:$1$eKg6p5fh$BWVLRCy9p6QzN5FuiloKn0
+codepath@lab000000:~/unit3$ john --show cp_leak.txt
+0 password hashes cracked, 1000 left
 
 
