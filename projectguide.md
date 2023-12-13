@@ -28,7 +28,7 @@ I'll list the files and find the crackfiles.zip
 <img width="423" alt="Screen Shot 2023-12-03 at 8 28 13 PM" src="https://github.com/larnelle15/Password-Crack-a-thon/assets/139686202/7f02eff3-705f-457b-ae24-e9e8b718a1a2">
 I'll now go ahead and unzip the folder in order to take a look at what I have:
 (unzip crackfiles.zip) 
-All of these files that have been shown are password files as seen below. I'll alos download a wordlist that is famous in the world of password cracking. I'll download the rockyou wordlist using the following command:
+All of these files that have been shown are password files as seen below. I'll also download a wordlist that is famous in the world of password cracking. I'll download the rockyou wordlist using the following command:
 (wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) Sorry If that command comes up as a link!
 
 <img width="904" alt="Screen Shot 2023-12-03 at 8 29 07 PM" src="https://github.com/larnelle15/Password-Crack-a-thon/assets/139686202/a7133f27-5c32-4d40-b31a-600685d28ab5">
