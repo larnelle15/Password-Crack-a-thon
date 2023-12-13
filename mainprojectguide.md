@@ -1,0 +1,1 @@
+The main goal of this project is to crack 250 passwords. You might ask why I'm not aiming at cracking more than that but the truth is with all of these methods i'm going to implement, cracking up to 1000 passwords is very possible but would take a long time and is unnecessary.
