@@ -1,0 +1,24 @@
+E325: ATTENTION
+  und a swap file by the name "~/unit3/.crackA.txt.swp"
+          owned by: codepath   dated: Wed Dec 13 04:17:15 2023
+         file name: ~codepath/unit3/crackA.txt
+          modified: no
+         user name: codepath   host name: lab000000
+        process ID: 3008 (STILL RUNNING)
+While opening file "/home/codepath/unit3/crackA.txt"
+             dated: Mon Nov 14 21:26:38 2022
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r /home/codepath/unit3/crackA.t
+xt"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file "/home/codepath/unit3/.crackA.
+txt.swp"
+    to avoid this message.
+
+Swap file "~/unit3/.crackA.txt.swp" already exists!
+
+Interrupt: Press ENTER or type command to continue
